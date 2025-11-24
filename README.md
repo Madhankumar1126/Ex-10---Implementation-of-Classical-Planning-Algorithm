@@ -40,6 +40,7 @@ plan = find_plan(initial_state, goal_state, actions)
 print(plan)
 Output:
 ['move_A_to_B', 'move_B_to_C']
+```
 
 ### PROGRAM
 ```
@@ -90,7 +91,9 @@ actions = {
 }
 plan = find_plan(initial_state, goal_state, actions)
 print(plan)
-OUTPUT
+```
+
+### OUTPUT
 441153532-c6fe5f1d-478a-4654-8936-3246d274c8b0
 
 RESULT
